@@ -1,0 +1,19 @@
+{
+  "name": "lista-devops",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Ariosto Leal",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jest": "^30.0.5",
+    "sqlite3": "^5.1.7",
+    "supertest": "^7.1.4"
+  }
+}
